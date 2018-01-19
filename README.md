@@ -10,4 +10,4 @@ This is a modified version of Dvorak layout modified based on following requirem
 
 - Number row is: "12#äö\*()0{}" and shifted "!@$ÄÖ^&*))[]" (yes, it was orginally optimized for C++ programming but is at home with C#, JS and other old style languages).
 
-Installation: use Setup.exe on windows or xmodmap on Linux. I have not tested the xmodmap in recent Linux distributions, but the Windows installer works fine in Windows 7.
+Installation: use Setup.exe on windows or xmodmap on Linux. I have not tested the xmodmap in recent Linux distributions, but the Windows installer works fine in Windows 7-10.
